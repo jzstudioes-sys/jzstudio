@@ -1,10 +1,10 @@
 /* JZ Studio · estilos v2
    Concepto: carteles de comercio de barrio a gran escala. Bandas de color plano que se alternan
    (coral, crema, café, melocotón), tipografía enorme y apretada, y un único elemento vivo por sección. */
-@font-face { font-family: "Inter Display"; src: url("assets/fuentes/inter-display-regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
-@font-face { font-family: "Inter Display"; src: url("assets/fuentes/inter-display-semibold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
-@font-face { font-family: "Inter Display"; src: url("assets/fuentes/inter-display-extrabold.woff2") format("woff2"); font-weight: 800; font-display: swap; }
-@font-face { font-family: "Inter Display"; src: url("assets/fuentes/inter-display-black.woff2") format("woff2"); font-weight: 900; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("inter-display-regular.woff2") format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("inter-display-semibold.woff2") format("woff2"); font-weight: 600; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("inter-display-extrabold.woff2") format("woff2"); font-weight: 800; font-display: swap; }
+@font-face { font-family: "Inter Display"; src: url("inter-display-black.woff2") format("woff2"); font-weight: 900; font-display: swap; }
 
 :root {
   --coral: #FF5A36; --coral-osc: #E8431F; --sol: #FFC93C; --cafe: #2A1710; --cafe-2: #3A2318; --cafe-3: #4A2E21;
